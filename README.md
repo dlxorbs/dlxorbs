@@ -1,4 +1,4 @@
-### 안녕하세요 이태균입니다.
+###  이태균 LEE TAE GYUN
 
 <!--
 **dlxorbs/dlxorbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
