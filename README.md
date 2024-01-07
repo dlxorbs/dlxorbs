@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 </div>
 
+
 <div align = "center" justify = "center">
+
+  
   ## Skill :four_leaf_clover:
 
   <!--프론트-->
