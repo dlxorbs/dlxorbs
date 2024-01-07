@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 </div>
 
-
+<div align = "center" justify = "center">
   ## Skill :four_leaf_clover:
 
   <!--프론트-->
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
   <!--언어 및 툴 -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/><br/>
+</div>
