@@ -1,3 +1,6 @@
+
+<div align = "center" justify = "center">
+
 ###  이태균 LEE TAE GYUN
 
 <!--
@@ -26,7 +29,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align = "center" justify = "center">
 
   
   ## Skill :four_leaf_clover:
