@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <!--프론트-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
    <br/>
+   
   <!--언어 및 툴 -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<br/><br/>
+<br/>
+
 </div>
