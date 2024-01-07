@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 
   
    <br/>
-   
-  <!--언어 및 툴 -->
+
   
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
     
 <br/>
