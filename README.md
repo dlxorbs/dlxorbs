@@ -48,4 +48,11 @@ Here are some ideas to get you started:
     
 <br/>
 
+
+
+<img src="https://img.shields.io/badge/Figma-252525?style=plastic&logo=Figma&logoColor=ffffff"/>
+
+    
+<br/>
+
 </div>
